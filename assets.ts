@@ -15,7 +15,7 @@ const placeholder = (text: string) => `https://placehold.co/1920x1080/000000/000
 export const assets = {
   // --- STARTSEITE ---
   // Das große Hintergrundbild ganz oben
-  hero: "", 
+  hero: /Geschichte_Final/Public/Gemini_Generated_Image_kx2q7ukx2q7ukx2q(1).png", 
   
   // Bild für den Einleitungstext
   intro_bg: placeholder('intro'),
